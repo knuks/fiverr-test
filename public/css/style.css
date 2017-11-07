@@ -1,0 +1,22 @@
+.navbar-nav > li > a{
+	padding: 10px 2em 10px 2em;
+	line-height: 1em;
+	font-weight: bold;
+	color:green;
+}
+.navbar {
+	border:1px solid orange;
+	min-height: 10px !important;
+	background-color: #f5fff5;
+	margin-bottom: 0px;
+}
+.nav>li>a:focus, .nav>li>a:hover {
+	text-decoration: none;
+	font-weight: bold;
+	color: orange;
+	background-color: transparent !important;
+}
+body{
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+	background-color: white;
+}
